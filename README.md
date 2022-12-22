@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on earning a Bachelor of Science in Software Development
 - 🌱 I’m currently learning Java and C#
 - 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](jasonmhatfield@pm.me)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jason-hatfield/)
 
 - ⚡ Fun fact: <br>
