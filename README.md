@@ -9,6 +9,6 @@
 
 - ⚡ Fun facts: <br>
   - :anchor: I was a [Helicopter Rescue Swimmer](https://www.navy.com/careers/aviation-rescue-swimmer) in the United States Navy and served as a Chief Petty Officer, where I developed strong leadership and management skills.
-  - 👨‍💼 I have a proven track record in program management, high-risk training safety, personnel and resource management, curriculum and instructional system design, team development, and Lean Six Sigma (Advanced Green Belt). I am also a certified Project Management Professional.
+  - 👨‍💼 I have a proven track record in program management, high-risk training safety, personnel and resource management, curriculum and instructional system design, team development, and Lean Six Sigma (Advanced Green Belt).
 
 I am keen on leveraging my skills and experience in a stimulating software engineering role, contributing to innovative solutions and organizational success.
