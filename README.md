@@ -1,25 +1,14 @@
-### Hi there 👋, I'm Jason Hatfield. 
+### Hi there 👋, I'm Jason Hatfield.
 
-### I'm a software development student at Grand Canyon University with a projected graduation date in the summer of 2024.
+### I graduated Summa Cum Laude from Grand Canyon University with a Bachelor of Science in Software Development (GPA: 3.98).
 
-- 🔭 I’m currently working on earning a Bachelor of Science in Software Development
-- 🌱 I’m currently learning Java and C#
+- 🔭 I’m currently working as an associate software engineer at Lowe's.
+- 🌱 My technical expertise includes C#, Java, SQL, HTML, CSS, API development, Grafana, JavaScript, Confluence, Bitbucket, Git, and Agile methodologies.
 - 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jason-hatfield/)
 
-- ⚡ Fun fact: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :anchor: I was a [Helicopter Rescue Swimmer](https://www.navy.com/careers/aviation-rescue-swimmer) in the United States Navy
-<!--
-**JasonHatfield/JasonHatfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun facts: <br>
+  - :anchor: I was a [Helicopter Rescue Swimmer](https://www.navy.com/careers/aviation-rescue-swimmer) in the United States Navy and served as a Chief Petty Officer, where I developed strong leadership and management skills.
+  - 👨‍💼 I have a proven track record in program management, high-risk training safety, personnel and resource management, curriculum and instructional system design, team development, and Lean Six Sigma (Advanced Green Belt). I am also a certified Project Management Professional.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am keen on leveraging my skills and experience in a stimulating software engineering role, contributing to innovative solutions and organizational success.
